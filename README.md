@@ -7,4 +7,4 @@ __[High Power Laser Delivery through Hollow Core Fiber]__
   
 This is a record repository of lab works and projects.  
 Data and record may no be accurate and valid.  
-only for URECA, no other use and formal use.  
+Only for URECA, no other use and formal use.  
