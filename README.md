@@ -2,7 +2,7 @@
 __NTU URECA Program AY2025/2026__  
   
 __[High Power Laser Delivery through Hollow Core Fiber]__  
->Supervisor: Dr.Charu, Prof.Wonkeun  
+>Supervisor: Dr.Charu, Prof.Wonkeun.  
 >Student Researcher: Mingzhi, Ranya.  
   
 This is a record repository of lab works and projects.  
